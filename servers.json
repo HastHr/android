@@ -1,0 +1,10 @@
+[
+    {
+      "ip": "18.142.122.63",
+      "port": 7777,
+      "x2": false,
+      "name": "CHIVALRY",
+      "online": 2,
+      "maxonline": 100
+    }
+ ]
