@@ -1,0 +1,25 @@
+{
+  "name": "Chivalry Mobile",
+  "sale": "0% Off",
+  "server": {
+    "ip": "13.213.58.97",
+    "port": 7777
+  },
+  "news": [
+    {
+      "id": "1",
+      "name": "New Update Available",
+      "image": "https://example.com/image1.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Special Event",
+      "image": "https://example.com/image2.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Maintenance Notice",
+      "image": "https://example.com/image3.jpg"
+    }
+  ]
+}
