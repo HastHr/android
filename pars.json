@@ -1,10 +1,6 @@
 {
-  "name": "Chivalry Mobile",
-  "sale": "0% Off",
-  "server": {
-    "ip": "13.213.58.97",
-    "port": 7777
-  },
+  "name": "Chivalry Roleplay",
+  "sale": "",
   "news": [
     {
       "id": "1",
